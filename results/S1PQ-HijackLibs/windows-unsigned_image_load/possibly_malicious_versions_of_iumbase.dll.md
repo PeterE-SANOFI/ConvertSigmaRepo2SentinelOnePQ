@@ -1,5 +1,5 @@
 ```sql
-// Translated content (automatically translated on 29-04-2025 01:59:40):
+// Translated content (automatically translated on 30-04-2025 01:59:15):
 event.type="ModuleLoad" and (endpoint.os="windows" and (module.path contains "\iumbase.dll" and (not (not (module.path matches "\.*") or not (module.path matches "\.*") or not (module.path matches "\.*")))))
 ```
 
