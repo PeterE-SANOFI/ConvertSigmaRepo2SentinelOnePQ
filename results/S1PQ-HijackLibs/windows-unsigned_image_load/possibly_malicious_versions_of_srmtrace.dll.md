@@ -1,5 +1,5 @@
 ```sql
-// Translated content (automatically translated on 02-05-2025 02:00:13):
+// Translated content (automatically translated on 03-05-2025 01:57:18):
 event.type="ModuleLoad" and (endpoint.os="windows" and (module.path contains "\srmtrace.dll" and (not (not (module.path matches "\.*") or not (module.path matches "\.*") or not (module.path matches "\.*")))))
 ```
 
