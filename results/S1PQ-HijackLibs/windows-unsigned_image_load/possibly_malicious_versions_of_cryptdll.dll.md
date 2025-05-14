@@ -1,5 +1,5 @@
 ```sql
-// Translated content (automatically translated on 13-05-2025 02:03:06):
+// Translated content (automatically translated on 14-05-2025 02:01:40):
 event.type="ModuleLoad" and (endpoint.os="windows" and (module.path contains "\cryptdll.dll" and (not (not (module.path matches "\.*") or not (module.path matches "\.*") or not (module.path matches "\.*")))))
 ```
 
