@@ -1,5 +1,5 @@
 ```sql
-// Translated content (automatically translated on 15-05-2025 02:00:37):
+// Translated content (automatically translated on 16-05-2025 02:03:20):
 event.type="ModuleLoad" and (endpoint.os="windows" and (module.path contains "\logoncontroller.dll" and (not (not (module.path matches "\.*") or not (module.path matches "\.*") or not (module.path matches "\.*")))))
 ```
 
