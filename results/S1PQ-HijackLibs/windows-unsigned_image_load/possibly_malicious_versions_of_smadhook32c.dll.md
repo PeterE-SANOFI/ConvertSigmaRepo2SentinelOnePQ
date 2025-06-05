@@ -1,5 +1,5 @@
 ```sql
-// Translated content (automatically translated on 04-06-2025 02:05:43):
+// Translated content (automatically translated on 05-06-2025 02:04:39):
 event.type="ModuleLoad" and (endpoint.os="windows" and (module.path contains "\smadhook32c.dll" and (not (not (module.path matches "\.*") or not (module.path matches "\.*") or not (module.path matches "\.*")))))
 ```
 
