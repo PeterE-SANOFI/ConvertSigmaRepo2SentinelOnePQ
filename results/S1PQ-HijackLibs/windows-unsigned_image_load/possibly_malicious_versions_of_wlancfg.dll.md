@@ -1,5 +1,5 @@
 ```sql
-// Translated content (automatically translated on 06-06-2025 02:03:50):
+// Translated content (automatically translated on 07-06-2025 02:03:10):
 event.type="ModuleLoad" and (endpoint.os="windows" and (module.path contains "\wlancfg.dll" and (not (not (module.path matches "\.*") or not (module.path matches "\.*") or not (module.path matches "\.*")))))
 ```
 
