@@ -1,5 +1,5 @@
 ```sql
-// Translated content (automatically translated on 09-06-2025 02:11:37):
+// Translated content (automatically translated on 10-06-2025 02:07:33):
 event.type="ModuleLoad" and (endpoint.os="windows" and (module.path contains "\lpksetupproxyserv.dll" and (not (not (module.path matches "\.*") or not (module.path matches "\.*") or not (module.path matches "\.*")))))
 ```
 
