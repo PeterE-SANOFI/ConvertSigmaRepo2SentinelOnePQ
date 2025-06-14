@@ -1,5 +1,5 @@
 ```sql
-// Translated content (automatically translated on 13-06-2025 02:06:39):
+// Translated content (automatically translated on 14-06-2025 02:02:03):
 event.type="ModuleLoad" and (endpoint.os="windows" and (module.path contains "\dbgcore.dll" and (not (not (module.path matches "\.*") or not (module.path matches "\.*") or not (module.path matches "\.*")))))
 ```
 
