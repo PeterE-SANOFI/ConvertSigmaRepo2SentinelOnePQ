@@ -1,5 +1,5 @@
 ```sql
-// Translated content (automatically translated on 22-06-2025 02:21:43):
+// Translated content (automatically translated on 23-06-2025 02:19:52):
 event.type="ModuleLoad" and (endpoint.os="windows" and (module.path contains "\licensemanagerapi.dll" and (not (not (module.path matches "\.*") or not (module.path matches "\.*") or not (module.path matches "\.*")))))
 ```
 
