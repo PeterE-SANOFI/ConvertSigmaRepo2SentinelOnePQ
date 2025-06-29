@@ -1,5 +1,5 @@
 ```sql
-// Translated content (automatically translated on 28-06-2025 02:03:11):
+// Translated content (automatically translated on 29-06-2025 02:24:12):
 event.type="ModuleLoad" and (endpoint.os="windows" and (module.path contains "\ndfapi.dll" and (not (not (module.path matches "\.*") or not (module.path matches "\.*") or not (module.path matches "\.*")))))
 ```
 
