@@ -1,5 +1,5 @@
 ```sql
-// Translated content (automatically translated on 03-07-2025 02:07:37):
+// Translated content (automatically translated on 04-07-2025 02:07:12):
 event.type="ModuleLoad" and (endpoint.os="windows" and (module.path contains "\xpsservices.dll" and (not (not (module.path matches "\.*") or not (module.path matches "\.*") or not (module.path matches "\.*")))))
 ```
 
