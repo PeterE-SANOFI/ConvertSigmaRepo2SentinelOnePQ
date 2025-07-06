@@ -1,5 +1,5 @@
 ```sql
-// Translated content (automatically translated on 05-07-2025 02:03:02):
+// Translated content (automatically translated on 06-07-2025 02:22:52):
 event.type="ModuleLoad" and (endpoint.os="windows" and (module.path contains "\uxtheme.dll" and (not (not (module.path matches "\.*") or not (module.path matches "\.*") or not (module.path matches "\.*")))))
 ```
 
