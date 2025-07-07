@@ -1,5 +1,5 @@
 ```sql
-// Translated content (automatically translated on 06-07-2025 02:22:52):
+// Translated content (automatically translated on 07-07-2025 02:19:26):
 event.type="ModuleLoad" and (endpoint.os="windows" and (module.path contains "\mfc42u.dll" and (not (not (module.path matches "\.*") or not (module.path matches "\.*") or not (module.path matches "\.*")))))
 ```
 
