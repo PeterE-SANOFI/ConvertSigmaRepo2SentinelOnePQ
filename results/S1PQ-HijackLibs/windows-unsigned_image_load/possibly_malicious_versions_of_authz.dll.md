@@ -1,5 +1,5 @@
 ```sql
-// Translated content (automatically translated on 10-07-2025 02:09:57):
+// Translated content (automatically translated on 11-07-2025 02:18:43):
 event.type="ModuleLoad" and (endpoint.os="windows" and (module.path contains "\authz.dll" and (not (not (module.path matches "\.*") or not (module.path matches "\.*") or not (module.path matches "\.*")))))
 ```
 
