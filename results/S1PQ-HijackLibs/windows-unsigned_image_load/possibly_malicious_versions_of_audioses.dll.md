@@ -1,5 +1,5 @@
 ```sql
-// Translated content (automatically translated on 11-07-2025 02:18:43):
+// Translated content (automatically translated on 12-07-2025 02:19:12):
 event.type="ModuleLoad" and (endpoint.os="windows" and (module.path contains "\audioses.dll" and (not (not (module.path matches "\.*") or not (module.path matches "\.*") or not (module.path matches "\.*")))))
 ```
 
