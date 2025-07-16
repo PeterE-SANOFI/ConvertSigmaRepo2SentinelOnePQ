@@ -1,5 +1,5 @@
 ```sql
-// Translated content (automatically translated on 15-07-2025 02:22:39):
+// Translated content (automatically translated on 16-07-2025 02:19:19):
 event.type="ModuleLoad" and (endpoint.os="windows" and (module.path contains "\tpmcoreprovisioning.dll" and (not (not (module.path matches "\.*") or not (module.path matches "\.*") or not (module.path matches "\.*")))))
 ```
 
