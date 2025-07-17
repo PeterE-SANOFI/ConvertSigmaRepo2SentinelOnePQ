@@ -1,5 +1,5 @@
 ```sql
-// Translated content (automatically translated on 16-07-2025 02:19:19):
+// Translated content (automatically translated on 17-07-2025 02:20:08):
 event.type="ModuleLoad" and (endpoint.os="windows" and module.path contains "\x32bridge.dll")
 ```
 
