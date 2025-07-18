@@ -1,5 +1,5 @@
 ```sql
-// Translated content (automatically translated on 17-07-2025 02:20:08):
+// Translated content (automatically translated on 18-07-2025 02:21:24):
 event.type="ModuleLoad" and (endpoint.os="windows" and (module.path contains "\mswb7.dll" and (not (not (module.path matches "\.*") or not (module.path matches "\.*") or not (module.path matches "\.*")))))
 ```
 
