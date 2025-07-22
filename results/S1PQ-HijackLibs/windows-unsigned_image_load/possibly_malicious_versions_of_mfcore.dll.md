@@ -1,5 +1,5 @@
 ```sql
-// Translated content (automatically translated on 21-07-2025 02:26:37):
+// Translated content (automatically translated on 22-07-2025 02:20:42):
 event.type="ModuleLoad" and (endpoint.os="windows" and (module.path contains "\mfcore.dll" and (not (not (module.path matches "\.*") or not (module.path matches "\.*") or not (module.path matches "\.*")))))
 ```
 
