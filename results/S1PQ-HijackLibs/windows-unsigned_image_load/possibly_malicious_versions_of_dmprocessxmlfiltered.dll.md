@@ -1,5 +1,5 @@
 ```sql
-// Translated content (automatically translated on 04-08-2025 02:32:54):
+// Translated content (automatically translated on 05-08-2025 02:26:34):
 event.type="Module Load" and (endpoint.os="windows" and (module.path contains "\\dmprocessxmlfiltered.dll" and (not (not (module.path matches "\.*") or not (module.path matches "\.*") or not (module.path matches "\.*")))))
 ```
 
