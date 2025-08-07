@@ -1,5 +1,5 @@
 ```sql
-// Translated content (automatically translated on 06-08-2025 02:24:36):
+// Translated content (automatically translated on 07-08-2025 02:24:58):
 event.type="Module Load" and (endpoint.os="windows" and (module.path contains "\\aepic.dll" and (not (not (module.path matches "\.*") or not (module.path matches "\.*") or not (module.path matches "\.*")))))
 ```
 
